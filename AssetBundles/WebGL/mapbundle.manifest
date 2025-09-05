@@ -1,0 +1,379 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.26f1
+CRC: 1706158613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e85e33d949ea5e85763c4f4ab5847921
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a03aef090a7c3134ffa529557635afb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 47d0b69f1ffb1508d657d1356add7aa4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0859836d6ae0e14a852f18524af80b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c572774c6a023847b60b7698271e6ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeSwamp_02_Normals.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Mat_Skydome_Fog_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeSwamp_04_Normals.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Water_Swamp_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/Swamp_Scum_Normals_02.png
+- Assets/PolygonDarkFantasy/Materials/Misc/Wood_FloorBoards_01.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Terrain_Bones_01.terrainlayer
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/LillyPads_01.tga
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Green_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Bats_Mat_FX_01.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_03_B.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_02_C.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Alt_01.mat
+- Assets/PolygonElvenRealm/Materials/Sky/Skybox_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/SwampGrass_Base.mat
+- Assets/PolygonElvenRealm/Materials/WindowGlass/Glass_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/Water_Refraction_Map.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Additive_Soft_FX.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_02_A.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/LillyPads_Normals_01.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/WaterNormals_02.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_01_A.mat
+- Assets/PolygonElvenRealm/Materials/Environment/Flowers_04.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Floor/Wood_04.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Green_02.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_03.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Wood_FloorBoards_02.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Stucco_Brown_03.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_04_A.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_Small_04.mat
+- Assets/PolygonElvenRealm/Materials/WindowGlass/Glass_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/LOD_Cards/Card_Tree_Mangrove_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/TreeBeards_02.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeSwamp_02.tga
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_05.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Floor_Tiles_03.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Stonewall_01 1.mat
+- Assets/PolygonElvenRealm/Materials/WindowGlass/GlassStars.mat
+- Assets/PolygonDarkFantasy/Materials/WindowGlass/Glass_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/PolygonNatureBiomesSwamp_LODs_Mat_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Additive_FX.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_06.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Alt_06.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Brown_05.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/SeaFloor.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/Footpath_Tiles_Mud_Texture_01.png
+- Assets/DragonKingdom/Prefab/Map/SahneYedek/GraveYard.prefab
+- Assets/PolygonDarkFantasy/Materials/Misc/Moss_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_Black_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/Swamp_Scum_02.tga
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_Large_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_Alt_05.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_Black_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_03_B.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_06.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeMangrove_01_Normals.tga
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_01_C.mat
+- Assets/PolygonNatureBiomes/PNB_Core/Materials/Fog_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_01_C.mat
+- Assets/PolygonDarkFantasy/Materials/WindowGlass/WindowGlass_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/LillyPads_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Branches_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_White_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Pebbles_Swamp_Normals.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Bones_Normals_01.png
+- Assets/PolygonDarkFantasy/Materials/Misc/Floor_Tiles_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/leafPatch_07.tga
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_04_A.mat
+- Assets/PolygonDarkFantasy/FX/FX_Materials/Additive_Circle_Glow_01 2.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/House_03 1.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/ToeToe_Material_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Swamp_Scum_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_02_B.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_03_A.mat
+- Assets/PolygonDarkFantasy/FX/FX_Materials/Portal_Mat_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Bricks_Grey_01.mat
+- Assets/PolygonElvenRealm/Materials/Environment/Leaves.mat
+- Assets/PolygonDarkFantasy/Materials/WindowGlass/Glass_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Swamp_Terrain_01.asset
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Sun_Beam_Swamp.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Rock_Swamp_Normals_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Alt_05.mat
+- Assets/PolygonDarkFantasy/FX/FX_Materials/Sunbeam_Mat 1.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_04.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Brown_06.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_Alt_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Rock_Grass_Triplanar_Swamp_01.mat
+- Assets/PolygonElvenRealm/Materials/WindowGlass/Glass.mat
+- Assets/PolygonDarkFantasy/Materials/WindowGlass/WindowGlass_04.mat
+- Assets/PolygonElvenRealm/Materials/Sky/Sky_Mat.mat
+- Assets/PolygonElvenRealm/Materials/Sky/Skybox_04.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Roof_Uncoloured_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Terrain_Mud_01.terrainlayer
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Circle_Multiply_FX.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Bones_Dense_Texture_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_02.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Roof_01.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Moss_Swamp_Texture_01.png
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_Small_03.mat
+- Assets/PolygonDarkFantasy/Materials/WindowGlass/Glass_02.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_11.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Terrain_Mud_Dry_01.terrainlayer
+- Assets/PolygonDarkFantasy/Materials/Walls/Stucco_Brown_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Leaf_Swamp_01.mat
+- Assets/PolygonElvenRealm/Materials/Environment/Flowers_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_03_C.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Grass_Swamp_Mat_01_Test.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_02_B.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/LOD_Cards/Card_Tree_Swamp_01.mat
+- Assets/PolygonElvenRealm/Materials/Water/Water_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_Alt_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/Reeds_01.tga
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_10.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/leafPatch_05.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Terrain_Footpath_Mud_Tile_01.terrainlayer
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_Alt_06.mat
+- Assets/DragonKingdom/Prefab/Map/SahneYedek/ElfTerrain.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_01_B.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/LillyPads_Normals_02.png
+- Assets/PolygonDarkFantasy/Materials/Walls/Stonewall_02 1.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_06.mat
+- Assets/DragonKingdom/Prefab/Map/SahneYedek/ElflerinDiyari.prefab
+- Assets/PolygonElvenRealm/Materials/Water/WaterFlow_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Brown_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/LOD_Cards/Card_Tree_Swamp_03.mat
+- Assets/PolygonElvenRealm/Materials/Environment/Flowers_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Floor/Wood_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Moss_Normals_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_Black_03.mat
+- Assets/PolygonElvenRealm/Materials/WindowGlass/Glass_05.mat
+- Assets/PolygonDarkFantasy/FX/FX_Materials/Bats_Mat_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/SwampGrass_01.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/LOD_Cards/Card_Tree_Swamp_04.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Grunge_01.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Stucco_Ruin_01.mat
+- Assets/PolygonElvenRealm/Materials/Sky/Skybox_03.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_Black_06.mat
+- Assets/PolygonElvenRealm/Materials/WindowGlass/Glass_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Circle_Additive_FX
+  1.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_03_C.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Ground_Normals_Swamp_01.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/White_FX_02.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Stonewall_02 2.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_02.mat
+- Assets/PolygonElvenRealm/Materials/Environment/RockTriplanar_Mat_01 2.mat
+- Assets/PolygonDarkFantasy/Materials/WindowGlass/WindowGlass_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_Alt_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeMangrove_03_Normals.tga
+- Assets/PolygonDarkFantasy/Materials/Misc/DividerPattern_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Tree_Swamp_Mat_01.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_07.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_08.mat
+- Assets/PolygonElvenRealm/Materials/WindowGlass/GlassTree.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Grass_Swamp_Texture_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Floor/Wood_02.mat
+- Assets/DragonKingdom/Prefab/Map/SahneYedek/DarkElfDiyar.prefab
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_White_06.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Fog_Gradient.png
+- Assets/PolygonDarkFantasy/Materials/Misc/Glass_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/TreeBeards_01.tga
+- Assets/PolygonDarkFantasy/Materials/WindowGlass/WindowGlass_03.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Sky_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Brown_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Tree_Mangrove_Mat_01.mat
+- Assets/DragonKingdom/Prefab/kopru/DragonKingdomElf.prefab
+- Assets/PolygonElvenRealm/Prefabs/FX/FX_Compnents/Doorway_Mat_01.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Stone_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Green_05.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Moss_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/ToeToe_Leaf_01.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/SwampGrass.mat
+- Assets/DragonKingdom/Prefab/Map/SahneYedek/SwampMap.prefab
+- Assets/PolygonDarkFantasy/Materials/Misc/Floor_Tiles_01.mat
+- Assets/PolygonElvenRealm/Materials/WindowGlass/Glass_04.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Alt_03.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_09.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Dragonfly_FX_Mat.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Bones_Dense_Normals_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Alt_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Grass_Swamp_Mat_01.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_04_C.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Bioluminescence/Grass_01_Glow_01.png
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_04_B.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_Large_03.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Water.mat
+- Assets/PolygonElvenRealm/Materials/Environment/RockTriplanar_Mat_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Mud_Rocks_Texture_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_01_B.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/Background_Trees_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_White_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Rock_Triplanar_Swamp_01.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_Small_02.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_03_A.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeSwamp_04.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/Grass_Swamp_01_Normals.tga
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_01.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/House_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/LillyPads_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeSwamp_01.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/LOD_Cards/Card_Tree_Mangrove_02.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Stucco_Brown_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_White_02.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Stone_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Terrain_Moss_01.terrainlayer
+- Assets/PolygonElvenRealm/Materials/WindowGlass/GlassMoon.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/House_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Moss_Mat_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Birds_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/LOD_Cards/Card_Tree_Swamp_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_02_A.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_01.mat
+- Assets/LowPoly Fantasy Monsters Pack Ver1.0_Demo/Environment/EffectMat/Particle_fire_Add.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Terrain_Grass_Swamp_01.terrainlayer
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/LillyPads_02.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Mud_Debris_Normals_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_04_B.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/Branches_01.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/SwampGrass_Normals_01.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/FX_Soft_Swamp_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Floor/Wood_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_05.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_White_05.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Skybox_Swamp_Mat_01.mat
+- Assets/PolygonElvenRealm/Materials/Water/WaterFlow_Slow_01.mat
+- Assets/PolygonElvenRealm/Materials/Sky/Skybox_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_04_C.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeMangrove_03.tga
+- Assets/PolygonDarkFantasy/Materials/WindowGlass/Glass_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeMangrove_02.tga
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Brown_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Mud_Debris_Texture_01.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Terrain_Mud_Debris_01.terrainlayer
+- Assets/DragonKingdom/Prefab/Map/Default-Terrain-Standart.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/Grass_Swamp_01.tga
+- Assets/PolygonDarkFantasy/Materials/Misc/Stone_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/WaterNormals_01.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Swamp_Scum_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Background_Tree.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Green_06.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Stonewall_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/White_FX_01.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_04.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeSwamp_03_Normals.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/FX_Circle_Soft_Swamp.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Vines.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/Reeds_Normals_01.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/PolygonNatureBiomesSwamp_Mat_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Mud_Texture_01.png
+- Assets/PolygonElvenRealm/Textures/Misc/Dirt_Texture_01.png
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/LOD_Cards/Card_Tree_Mangrove_03.mat
+- Assets/PolygonElvenRealm/Materials/Water/WaterFlow_02.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Green_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/FX/FX_Materials/Fly_FX_Mat.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Bones_Texture_01.png
+- Assets/PolygonDarkFantasy/Materials/Misc/Grunge_02.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/House_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Mud_Normals_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_Alt_02.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Stonewall_01 2.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Alt_02.mat
+- Assets/PolygonElvenRealm/Materials/Alts/PolygonElven_Mat_01_A.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Green_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeSwamp_03.tga
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_White_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/Background_Trees_01.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Plants/Swamp_Scum_01.tga
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_05.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_Black_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/Toetoe_Leaf_Normals_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Marble_Black_05.mat
+- Assets/PolygonElvenRealm/Materials/Environment/RockTriplanar_Mat_01 1.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/Normals/Swamp_Scum_Normals_01.png
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Brick_Small_03.mat
+- Assets/PolygonElvenRealm/Materials/Environment/Flowers_03.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeSwamp_01_Normals.tga
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/PolygonNatureBiomes_Swamp_Texture_01.png
+- Assets/PolygonDarkFantasy/Materials/Misc/Cloud_Dark.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Tree_Beard.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Stone_04.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeMangrove_02_Normals.tga
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_03.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Roof/PolygonElven_Roof_Tiles_02_C.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/PolygonNatureBiomes_Swamp_Texture_02.png
+- Assets/PolygonElvenRealm/Materials/Environment/Dirt_Triplanar.mat
+- Assets/PolygonElvenRealm/Materials/Environment/RockTriplanar_Mat_01 3.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_Large_01.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_Small_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Textures/LOD_Cards/treeMangrove_01.tga
+- Assets/PolygonDarkFantasy/Materials/Misc/Ocean_Base.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_01.mat
+- Assets/PolygonDarkFantasy/FX/FX_Materials/Sunbeam_Mat 2.mat
+- Assets/PolygonDarkFantasy/Materials/Misc/Sky_02.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Materials/Plants/Reeds_01.mat
+- Assets/PolygonNatureBiomes/PNB_Swamp_Marshland/Terrain/Rock_Swamp_Texture_01.png
+- Assets/PolygonDarkFantasy/Materials/Walls/Brick_Large_04.mat
+- Assets/PolygonDarkFantasy/Materials/Walls/Wallpaper/Wallpaper_12.mat
+- Assets/PolygonElvenRealm/Materials/Buildings/Walls/Stucco_Brown_02.mat
+Dependencies:
+- C:/Users/PC/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/monsterbundle

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.26f1
+CRC: 4047656401
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dragonbundle
+      Dependencies:
+        Dependency_0: monsterbundle
+    Info_1:
+      Name: mapbundle
+      Dependencies:
+        Dependency_0: monsterbundle
+    Info_2:
+      Name: monsterbundle
+      Dependencies:
+        Dependency_0: dragonbundle
+        Dependency_1: mapbundle
+        Dependency_2: dungeonbundle
+    Info_3:
+      Name: dungeonbundle
+      Dependencies:
+        Dependency_0: monsterbundle
+    Info_4:
+      Name: abilitiesbundle
+      Dependencies:
+        Dependency_0: dragonbundle
+        Dependency_1: monsterbundle
+    Info_5:
+      Name: dragonstatsbundle
+      Dependencies: {}

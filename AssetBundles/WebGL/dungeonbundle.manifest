@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.26f1
+CRC: 597173856
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17d632e33dc24c72b1b608e7fcceee88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8cbb6576e681ee4666071d0b7a3dc71a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eb68b7cee7f91a84d913221100f7b7d6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PolygonDungeonRealms/Textures/Misc/SimpleSky_Texture.png
+- Assets/DragonKingdom/Prefab/Dungeon/GoblinWorld.prefab
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_04_A.png
+- Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Emission_03.png
+- Assets/PolygonDungeonRealms/Textures/Misc/FX_Circle_Soft_Tex.png
+- Assets/PolygonDungeonRealms/Textures/Misc/FX_Circle_Tex.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_03_B.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_03_A.png
+- Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Emission_04.png
+- Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Normal_Map.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_04_B.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_02_C.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_04_C.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_02_B.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_01_A.png
+- Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Emission_01.png
+- Assets/PolygonDungeonRealms/Textures/Misc/FX_Gold_Sparkle_Tex.png
+- Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_2_Texture_Emission_02.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_01_B.png
+- Assets/PolygonDungeonRealms/Textures/Misc/Dungeons_Realms_Metallic.tif
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_03_C.png
+- Assets/PolygonDungeonRealms/Textures/Misc/Gold_Normal.png
+- Assets/PolygonDungeonRealms/Textures/Misc/Gold_Diffuse.png
+- Assets/DragonKingdom/Prefab/Dungeon/Default-Particle.mat
+- Assets/PolygonDungeonRealms/Textures/Misc/Spiderweb_01.png
+- Assets/PolygonDungeonRealms/Textures/Misc/FX_SunBeam_Tex.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_01_C.png
+- Assets/PolygonDungeonRealms/Textures/Dungeons_2_Texture_02_A.png
+Dependencies:
+- C:/Users/PC/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/monsterbundle
