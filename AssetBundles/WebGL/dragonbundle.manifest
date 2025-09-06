@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.2f1
-CRC: 2766475662
+CRC: 3487242563
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4721f842a2ee44260fb1e41195778dda
+    Hash: 99ac6fd4be04189b11f6ab813aa8dfda
   TypeTreeHash:
     serializedVersion: 2
     Hash: 55329d4a2e80f270531d268fefb5c6c1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a771e10b32e37a88b36308723d9bd205
+    Hash: 9f7b63595000fffc6e37badd60e44ecd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -205,9 +205,9 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Epic Toon FX/Materials/Misc/Unsorted/healing_AB.mat
 - Assets/Hovl Studio/HSFiles/Materials/Smoke24bcg.mat
-- Assets/Hovl Studio/HSFiles/Materials/Circle96cg.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_7.prefab
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Smoke aura.prefab
-- Assets/DragonKingdom/Resources/Dragons/dragon_2.prefab
+- Assets/Hovl Studio/HSFiles/Materials/Circle96cg.mat
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Brown/M_Kuzar_Brown_Wings.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonSoulEater/BluePBR.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonUsurper/DarkPBR.mat
@@ -221,15 +221,16 @@ Assets:
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Horns/Kuzar_Horns_Purple.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonNightmare/BluePBR.mat
 - Assets/Hovl Studio/HSFiles/Materials/Fire13bcg.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_5.prefab
 - Assets/FourEvilDragonsPBR/Materials/DragonTerrorBringer/GreyPBR.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Player.prefab
 - Assets/Epic Toon FX/Materials/Basics/sparkle_ADD.mat
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Horns/Kuzar_Horns_Red.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Shield_4.mat
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Brown/M_Kuzar_Brown_Body.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_10.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Waves23bcg.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Particle_3.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_2.prefab
 - Assets/DragonKingdom/Soccer/dragon_player_blue.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonSoulEater/RedPBR.mat
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Eyes/M_Kuzar_Eyes_Yellow.mat
@@ -249,39 +250,38 @@ Assets:
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Darkness aura.prefab
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Meteor aura.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Debris2bcg.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_6.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Point19bcg.mat
 - Assets/DragonKingdom/Prefab/AuraPrefabs/AuraParent.prefab
+- Assets/DragonKingdom/CharacterPrefab/dragon_1.prefab
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Lightning aura 1.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Flare20cg.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_7.prefab
+- Assets/DragonKingdom/CharacterPrefab/dragon_4.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_SphereMesh.mat
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Healing aura.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Shield.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_8.prefab
 - Assets/FourEvilDragonsPBR/Materials/DragonSoulEater/GreenPBR.mat
 - Assets/Hovl Studio/HSFiles/Materials/Noise69bcg2.mat
 - Assets/polyperfect/Low Poly Animated Fantasy Creatures/- Materials/m_dragon_red.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_11.prefab
+- Assets/DragonKingdom/CharacterPrefab/dragon_9.prefab
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Horns/Kuzar_Horns_Green.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_8.prefab
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Freeze aura.prefab
-- Assets/DragonKingdom/Resources/Dragons/dragon_1.prefab
 - Assets/FourEvilDragonsPBR/Materials/DragonUsurper/RedPBR.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Shield_3.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Crystal.mat
 - Assets/polyperfect/Low Poly Animated Fantasy Creatures/- Materials/m_dragon_gold.mat
 - Assets/Hovl Studio/HSFiles/Materials/Smoke27bcg.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonSoulEater/PurplePBR.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_12.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Plus1bcg.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonNightmare/RedPBR.mat
 - Assets/Hovl Studio/HSFiles/Materials/Lightning11cg.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_3.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Flare21bcg.mat
 - Assets/Hovl Studio/HSFiles/Materials/WhiteHSlit.mat
 - Assets/polyperfect/Low Poly Animated Fantasy Creatures/- Materials/m_dragon_black.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_35_Materials/Effect_35_Particle.mat
 - Assets/Hovl Studio/HSFiles/Materials/BloodAnim1bcg.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_4.prefab
+- Assets/DragonKingdom/CharacterPrefab/dragon_3.prefab
 - Assets/DragonKingdom/Soccer/dragon_player_red.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_35_Materials/Effect_35_Sword.mat
 - Assets/Hovl Studio/HSFiles/Materials/Snow5cg.mat
@@ -289,6 +289,8 @@ Assets:
 - Assets/Malbers Animations/Common/Materials & Textures/Realistic Common/Animal_Re_EyeLens.mat
 - Assets/KriptoFX/Magic Effects Pack v5/EffectResources/Materials/DemoEnemyEffects/EnemyFadeParticles.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_47_Materials/Effect_47_Sphere_4.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_6.prefab
+- Assets/DragonKingdom/CharacterPrefab/dragon_11.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Floor2HSlit.mat
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Gold aura.prefab
 - Assets/FourEvilDragonsPBR/Materials/DragonNightmare/AlbinoPBR.mat
@@ -297,15 +299,15 @@ Assets:
 - Assets/Hovl Studio/HSFiles/Materials/Flare6cg.mat
 - Assets/PolygonParticleFX/Materials/PolygonParticleFX_Wind.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Cube.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_0.prefab
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Horns/Kuzar_Horns_Gold.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_0.prefab
 - Assets/KriptoFX/Magic Effects Pack v5/EffectResources/Materials/DemoEnemyEffects/Teleport_bot
   black.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_5.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Particle.mat
 - Assets/Hovl Studio/HSFiles/Materials/Smoke17cg.mat
 - Assets/Epic Toon FX/Materials/Misc/Magic/shield_magic_ADD.mat
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Horns/Kuzar_Horns_White.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_10.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Glow1cg.mat
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Horns/Kuzar_Horns_Brown.mat
 - Assets/StylizedDragonPack/Materials/PC/Dragon/M_Dragon_Bk.mat
@@ -315,11 +317,9 @@ Assets:
 - Assets/Hovl Studio/HSFiles/Materials/Water2cg.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonTerrorBringer/GreenPBR.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonUsurper/AlbinoPBR.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_12.prefab
+- Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Spikes/M_Kuzar_Brown_Spikes.mat
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Soap ayra.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Flare3cg.mat
-- Assets/DragonKingdom/Resources/Dragons/dragon_9.prefab
-- Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Spikes/M_Kuzar_Brown_Spikes.mat
 - Assets/Hovl Studio/HSFiles/Materials/Smoke32bcg.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonTerrorBringer/AlbinoPBR.mat
 - Assets/KriptoFX/Magic Effects Pack v5/EffectResources/Materials/DemoEnemyEffects/Teleport_bot.mat
