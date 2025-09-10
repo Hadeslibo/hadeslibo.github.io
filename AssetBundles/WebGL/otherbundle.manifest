@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.2f1
-CRC: 1220635690
+CRC: 4230520589
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1ff8a34351c6fb00667f22fa0fb8fadc
+    Hash: 1c4b767dbf81b8d420b677ff54d58fff
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f0df506dd75746b4c1252ca2fdbc89e
+    Hash: 92dcab8d2917756bf037c08cc87e8dce
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 37168e87065434a5ac5ed52ffd99e0aa
+    Hash: 635300db5d12033e7aa218bc68daa7e6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,17 +38,19 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: c704fd85074a6c548baed64616754d8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b60b3b34b97a4d42a7ef1e66fffb21d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a071bb5e2da2bb34bb9434621e33bd3a, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 12c5ce22909a34849bf5ccd69a66c664, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8b7e4542b8b17544db0decd919ea64b1, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: a071bb5e2da2bb34bb9434621e33bd3a, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5b60b3b34b97a4d42a7ef1e66fffb21d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
 - Class: 114
@@ -67,8 +69,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f875761d9a11f1b448dda0f9ee26e0f0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 56e17d10c4e020147ae8b5e49a85fd67, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: c704fd85074a6c548baed64616754d8f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
@@ -196,11 +196,12 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_22_Materials/Effect_22_Ring_2.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_01_Materials/Effect_01_Lightning.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_30_Materials/Effect_30_Explosion.mat
+- Assets/DragonKingdom/SkillsBundled/HealBuff.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_21_Materials/Effect_21_RingMesh.mat
-- Assets/DragonKingdom/SkillsBundled/MeteorRain.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_43_Materials/Effect_43_HitQuad.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_2.prefab
 - Assets/DragonKingdom/SkillsBundled/StarFall.prefab
+- Assets/DragonKingdom/SkillsBundled/MeteorRain.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Wave_3.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_01_Materials/Effect_01_Particle.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_43_Materials/Effect_43_Particle.mat
