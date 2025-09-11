@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.2f1
-CRC: 3660539898
+CRC: 1700544271
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1bcaa5c84d906d20550233c9d3237f0b
+    Hash: 0c62c3f4487ab509b51c0a82e98d7278
   TypeTreeHash:
     serializedVersion: 2
     Hash: 55329d4a2e80f270531d268fefb5c6c1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4b11edd8acb226e9525d75634fcebd02
+    Hash: 084adf251f558153b730ee9e7145aa9e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -203,10 +203,10 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Epic Toon FX/Materials/Misc/Unsorted/healing_AB.mat
+- Assets/PolygonParticleFX/Materials/PolygonParticleFX_Empty.mat
+- Assets/DragonKingdom/Prefab/AuraPrefabs/Smoke aura.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Smoke24bcg.mat
 - Assets/DragonKingdom/CharacterPrefab/dragon_7.prefab
-- Assets/DragonKingdom/Prefab/AuraPrefabs/Smoke aura.prefab
 - Assets/Hovl Studio/HSFiles/Materials/Circle96cg.mat
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Brown/M_Kuzar_Brown_Wings.mat
 - Assets/FourEvilDragonsPBR/Materials/DragonSoulEater/BluePBR.mat
@@ -242,8 +242,9 @@ Assets:
 - Assets/Hovl Studio/HSFiles/Materials/Z1bcg.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Particle_2.mat
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Spikes/M_Kuzar_Black_Spikes.mat
-- Assets/FourEvilDragonsPBR/Materials/DragonUsurper/BluePBR.mat
+- Assets/DragonKingdom/CharacterPrefab/dragon_13.prefab
 - Assets/KriptoFX/Magic Effects Pack v5/EffectResources/Materials/DemoEnemyEffects/Teleport_top.mat
+- Assets/FourEvilDragonsPBR/Materials/DragonUsurper/BluePBR.mat
 - Assets/Hovl Studio/HSFiles/Materials/Trail71cg.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_09_Materials/Effect_09_Shield_2.mat
 - Assets/Hovl Studio/HSFiles/Materials/Circle131bcg.mat
@@ -328,6 +329,6 @@ Assets:
 - Assets/DragonKingdom/Prefab/AuraPrefabs/Shine aura.prefab
 - Assets/Malbers Animations/Dragons/8 - Kuzar the Magnificent/Materials_Textures/Brown/M_Kuzar_Black_Wings.mat
 - Assets/DamageNumbersPro/Materials/Cool/Gold.asset
-- Assets/PolygonParticleFX/Materials/PolygonParticleFX_Empty.mat
+- Assets/Epic Toon FX/Materials/Misc/Unsorted/healing_AB.mat
 Dependencies:
 - C:/Users/PC/DragonKingdomElf/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/monsterbundle
