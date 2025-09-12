@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.2f1
-CRC: 374250125
+CRC: 1941937151
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 88a03110a3041f9ef41dd8a5ebe6e441
+    Hash: 688ee09af9aa0d3ae61eb34b99b63832
   TypeTreeHash:
     serializedVersion: 2
     Hash: 15d2b1656af5e9c064d015730c96e541
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e9ac96c025fc34237a23aebca80b156d
+    Hash: d38488fefda02cc04fd3260bad053d89
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -290,3 +290,4 @@ Assets:
 Dependencies:
 - C:/Users/PC/DragonKingdomElf/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/dragonbundle
 - C:/Users/PC/DragonKingdomElf/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/dungeonbundle
+- C:/Users/PC/DragonKingdomElf/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/otherbundle

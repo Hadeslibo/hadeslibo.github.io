@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.2f1
-CRC: 3948482311
+CRC: 2441225990
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7da321a602f042489778f71bbb776087
+    Hash: 4d933d99ae6b82249e18a0a8138845c2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8c096178ec716688b3b086649f0284b1
+    Hash: d539b46645db39813e433f19bb7e5565
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 45b4bec622ea7eb0a3dfbe48d4244210
+    Hash: daa55f0fe955c17f9335998b8d2a359c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -56,6 +56,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: fd741e9fa723de7499d73eeccd8fa68c, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: f2640ff5cf7d9ae47970b48ca4698ef5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7994742634f09eb4a88499d7e511671d, type: 3}
@@ -73,6 +75,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: c704fd85074a6c548baed64616754d8f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f54e17d705a2894d88787e24190ebfa, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f9b51685ee80455449284e617994ce43, type: 3}
 - Class: 114
@@ -135,6 +139,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Ring.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Smoke.mat
+- Assets/Epic Toon FX/Materials/Basics/circle_AB.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Impact_7.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_9.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_43_Materials/Effect_43_Slash_4.mat
@@ -143,8 +148,8 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_RingMesh.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_25_Materials/Effect_25_Slash.mat
 - Assets/DragonKingdom/SkillsBundled/StormTornado.prefab
-- Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Explosion_2.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_33_Materials/Effect_33_Sphere_4.mat
+- Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Explosion_2.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_25_Materials/Effect_25_Slash_5.mat
 - Assets/DragonKingdom/SkillsBundled/DarkDimen.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_19_Materials/Effect_19_Explosion.mat
@@ -155,6 +160,7 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Impact_8.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_24_Materials/Effect_24_Lightning.mat
 - Assets/DragonKingdom/SkillsBundled/SunAOE.prefab
+- Assets/DragonKingdom/SkillsBundled/DarkDebuff.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_43_Materials/Effect_43_Slash_3.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_28_Materials/Effect_28_Beam.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Effects/Effect_25_CriticalSlash/Effect_25_Parts/Effect_25_Wheel.prefab
@@ -176,13 +182,14 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_24_Materials/Effect_24_Lightning_7.mat
 - Assets/DragonKingdom/SkillsBundled/ElectricExplosion.prefab
 - Assets/DragonKingdom/SkillsBundled/MeteorRain.prefab
-- Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_22_Materials/Effect_22_Ring_2.mat
+- Assets/Epic Toon FX/Materials/Basics/cloud_magic_AB.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_01_Materials/Effect_01_Lightning.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_30_Materials/Effect_30_Explosion.mat
-- Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_54_Materials/Effect_54_Particle.mat
+- Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_22_Materials/Effect_22_Ring_2.mat
 - Assets/DragonKingdom/SkillsBundled/HealBuff.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_21_Materials/Effect_21_RingMesh.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_2.prefab
+- Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_54_Materials/Effect_54_Particle.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_47_Materials/Effect_47_Explosion.mat
 - Assets/DragonKingdom/SkillsBundled/SatBeam.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_01_Materials/Effect_01_Tornado.mat
@@ -209,11 +216,13 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_17_Materials/Effect_17_Particle.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_6.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Wave_4.mat
+- Assets/Epic Toon FX/Materials/Misc/Fire/fire_soft_blank_AB.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_15_Materials/Effect_15_Sphere_2.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_25_Materials/Effect_25_Particle.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_15_Materials/Effect_15_Sphere.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_54_Materials/Effect_54_Ring.mat
 - Assets/DragonKingdom/SkillsBundled/LightField.prefab
+- Assets/Epic Toon FX/Materials/Misc/Skulls/skull2_AB.mat
 - Assets/DragonKingdom/SkillsBundled/MagmaField.prefab
 - Assets/DragonKingdom/SkillsBundled/BestBuff.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_38_Materials/Effect_38_Pulse.mat
@@ -226,6 +235,7 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_01_Materials/Effect_01_TornadoOuterWind.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_01_Materials/Effect_01_Lightning_3.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_54_Materials/Effect_54_Beam.mat
+- Assets/DragonKingdom/SkillsBundled/FireDebuff.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_37_Materials/Effect_37_Field.mat
 - Assets/DragonKingdom/SkillsBundled/ShieldBuff.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_25_Materials/Effect_25_Slash_6.mat
@@ -271,6 +281,7 @@ Assets:
 - Assets/DragonKingdom/SkillsBundled/LightBreath.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_15_Materials/Effect_15_Ring.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_24.prefab
+- Assets/Epic Toon FX/Materials/Misc/Magic/magic_orb2_ADD.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_19_Materials/Effect_19_IceExplos.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_34_Materials/Effect_34_Ring_2.mat
 - Assets/DragonKingdom/SkillsBundled/BigBreath.prefab
@@ -290,6 +301,7 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_43_Materials/Effect_43_Particle.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_29.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_38_Materials/Effect_38_Beam_2.mat
+- Assets/Epic Toon FX/Materials/Misc/Unsorted/snowflake_AB.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_LightningMesh_3.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_01_Materials/Effect_01_Smoke.mat
 - Assets/DragonKingdom/SkillsBundled/WindCycle.prefab
@@ -309,6 +321,7 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_19_Materials/Effect_19_Sphere.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_24_Materials/Effect_24_Lightning_4.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_38_Materials/Effect_38_Impact_3.mat
+- Assets/DragonKingdom/SkillsBundled/FrostDebuff.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_24_Materials/Effect_24_LightningImpact.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_09_Materials/Effect_09_Particle.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_31.prefab
@@ -317,9 +330,11 @@ Assets:
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_33_Materials/Effect_33_Slash_3.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_54_Materials/Effect_54_Beam_2.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_14.prefab
+- Assets/Epic Toon FX/Materials/Basics/ring_ADD.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_38_Materials/Effect_38_Impact_2.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_1.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Wave.mat
+- Assets/DragonKingdom/SkillsBundled/PoisonDebuff.prefab
 - Assets/DragonKingdom/SkillsBundled/PowerLight.prefab
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_7.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_24_Materials/Effect_24_Lightning_6.mat
@@ -349,9 +364,10 @@ Assets:
 - Assets/DragonKingdom/SkillsBundled/PoisonBreath.prefab
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_18.prefab
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_47_Materials/Effect_47_Impact.mat
+- Assets/Epic Toon FX/Materials/Basics/cloud_2x2_soft_AB.mat
 - Assets/DragonKingdom/CrazyGamesResourcesYedek/Lootpack_22.prefab
-- Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_30_Materials/Effect_30_FireSphere.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_49_Materials/Effect_49_Wave_2.mat
+- Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_30_Materials/Effect_30_FireSphere.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_2(ScriptBased)/Materials/Effect_25_Materials/Effect_25_Slash_7.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_15_Materials/Effect_15_Line.mat
 - Assets/SpecialSkillsEffectsPack/AllEffects/EffectsSet_1(NotScriptBased)/Materials/Effect_15_Materials/Effect_15_Card_2.mat

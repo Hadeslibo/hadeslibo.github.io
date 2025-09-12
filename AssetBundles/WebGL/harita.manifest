@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.2f1
-CRC: 1239730108
+CRC: 2506880484
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 77bfbda54837e681aaf98101666183dd
+    Hash: ebe199122ef17e55d742cc606115d68c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7fbfdd816f104749061ae3b54292fb3c
+    Hash: 85ec4dff0048f50e4db77e95a24ae0b5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d87c40577ec427ee990aa3085cfe1d7f
+    Hash: 1ae6e2f1166615aa5dd1308bd489dce4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -35,6 +35,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
 - Class: 91
   Script: {instanceID: 0}
 - Class: 95
@@ -42,8 +44,28 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: f34f36451b093ee4c83ad4aa5459d2ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e428196c0083bb4478affa7e6c452404, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2640ff5cf7d9ae47970b48ca4698ef5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22062786070e1664895cea169147511c, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 3c572774c6a023847b60b7698271e6ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9b51685ee80455449284e617994ce43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ec859ab232b679498299ed61abdb68a, type: 3}
 - Class: 115
+  Script: {instanceID: 0}
+- Class: 128
   Script: {instanceID: 0}
 - Class: 135
   Script: {instanceID: 0}
@@ -61,11 +83,43 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 205
   Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
 - Class: 218
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
   Script: {instanceID: 0}
 - Class: 1953259897
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/FantasyEnvironments/Environments/Town/Prefabs/Windmill.prefab
 - Assets/FantasyEnvironments/Environments/Town/FBXs/storage_bag_potato.fbx
@@ -109,6 +163,7 @@ Assets:
 - Assets/FantasyEnvironments/Environments/Town/FBXs/Food_pie.fbx
 - Assets/FantasyEnvironments/Environments/Town/Prefabs/storage_barrel_fish.prefab
 - Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Textures/Pine_bark.png
+- Assets/Triple Dungeon Pack/Blue Dungeon/Materials/blue dungeon.mat
 - Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_chicken.prefab
 - Assets/FantasyEnvironments/Environments/Town/FBXs/Wall_props.fbx
 - Assets/FantasyEnvironments/Environments/Prefabs/Stone3.prefab
@@ -155,9 +210,10 @@ Assets:
 - Assets/FantasyEnvironments/Environments/Town/FBXs/WoodenHouse_2.fbx
 - Assets/FantasyEnvironments/Environments/Town/Prefabs/Furniture_candlestick1.prefab
 - Assets/FantasyEnvironments/Environments/Town/FBXs/WoodenHouse_3.fbx
-- Assets/FantasyEnvironments/Environments/Prefabs/Rock2.prefab
+- Assets/Triple Dungeon Pack/Blue Dungeon/Materials/fire.mat
 - Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/FBX/Pine_tree3.fbx
 - Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/FBX/Deciduous_tree_stump.fbx
+- Assets/FantasyEnvironments/Environments/Prefabs/Rock2.prefab
 - Assets/FantasyEnvironments/Environments/Town/Prefabs/cart1.prefab
 - Assets/FantasyEnvironments/Environments/Town/FBXs/Food_plate_small.fbx
 - Assets/FantasyEnvironments/Environments/Prefabs/Flower1.prefab
@@ -203,6 +259,7 @@ Assets:
 - Assets/FantasyEnvironments/Environments/Town/FBXs/Food_bread_2.fbx
 - Assets/FantasyEnvironments/Environments/Prefabs/Flower5.prefab
 - Assets/FantasyEnvironments/Environments/Prefabs/Rock3.prefab
+- Assets/DragonKingdom/Prefab/Dungeon/blue dungeon.prefab
 - Assets/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Materials/Willow_leaves.mat
 - Assets/FantasyEnvironments/Environments/Town/Prefabs/Food_bottle3.prefab
 - Assets/FantasyEnvironments/Environments/Town/FBXs/WoodenWall_Entrace.fbx
@@ -465,4 +522,5 @@ Assets:
 - Assets/FantasyEnvironments/Environments/TerrainLayers/layer_ground_grass.terrainlayer
 - Assets/FantasyEnvironments/FX/FX_CandleFlame.png
 Dependencies:
+- C:/Users/PC/DragonKingdomElf/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/dragonbundle
 - C:/Users/PC/DragonKingdomElf/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/monsterbundle

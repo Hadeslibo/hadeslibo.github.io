@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.2f1
-CRC: 1700544271
+CRC: 139681113
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c62c3f4487ab509b51c0a82e98d7278
+    Hash: 8793a30907ea6c0d44b52e5eb1eba8ca
   TypeTreeHash:
     serializedVersion: 2
     Hash: 55329d4a2e80f270531d268fefb5c6c1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 084adf251f558153b730ee9e7145aa9e
+    Hash: 0874892b760fb04d0798bc6b5ac7d23e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -332,3 +332,4 @@ Assets:
 - Assets/Epic Toon FX/Materials/Misc/Unsorted/healing_AB.mat
 Dependencies:
 - C:/Users/PC/DragonKingdomElf/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/monsterbundle
+- C:/Users/PC/DragonKingdomElf/DragonKingdomElf/Dragon KingdomElf/Assets/AssetBundles/WebGL/otherbundle
